@@ -1,0 +1,38 @@
+[
+    {
+        "id": 8,
+        "from": "Scotland",
+        "to": "Chicago",
+        "mass": 14,
+        "status_id": 3,
+        "another_one": "goods"
+    },
+    {
+        "shipment_id": 999,
+        "origin": "Chicago",
+        "destination": "Moldova",
+        "weight": 6.66,
+        "status": 2
+    },
+    {
+        "1": 1,
+        "2": "Birkenhead",
+        "3": "Headingley",
+        "4": 99,
+        "5": 4
+    },
+    {
+        "Shipment_id": 80,
+        "Origin": "Poland",
+        "desTINation": "Germany",
+        "weighT": 54.5,
+        "StatuS": 3
+    },
+    {
+        "shipment_id": 2,
+        "origin": "Here",
+        "destination": "There",
+        "weight": 2,
+        "status": 2
+    }
+]
